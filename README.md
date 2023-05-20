@@ -1,7 +1,7 @@
 # PortProcess_killer
-This is a Program written in Python whith PySimpleGUI, os and psutil it takes the user input which in this case should be the port number and
+This is a Program written in Python with PySimpleGUI, os and psutil it takes the user input which in this case should be the port number and
 locks if there is a process running on it.
-After pressing the kill button it runs a cmd comand in a invisible window and 
+After pressing the kill button it runs a cmd command in an invisible window and 
 kills the process.
 
 
@@ -12,7 +12,7 @@ kills the process.
 - [auto-py-to-exe](#auto-py-to-exe)
 
 ## os
-for opening the cmd and running the kill comand
+for opening the cmd and running the kill command
 
 ## PySimpleGUI
 for the very very simple Gui
@@ -22,4 +22,4 @@ for checking if the running processes in the background
 
 
 ## auto-py-to-exe
-Also i used a library called ***auto-py-to-exe*** which convertes the python game into an executive exe file
+Also, I used a library called ***auto-py-to-exe*** which converts the python game into an executive exe file
