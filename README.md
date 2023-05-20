@@ -23,3 +23,7 @@ for checking if the running processes in the background
 
 ## auto-py-to-exe
 also, I used a library called ***auto-py-to-exe*** which converts the python game into an executive exe file
+
+
+
+use at your own risk
