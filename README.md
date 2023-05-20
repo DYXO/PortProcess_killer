@@ -11,5 +11,15 @@ kills the process.
 - [psutil](#psutil)
 - [auto-py-to-exe](#auto-py-to-exe)
 
-### auto-py-to-exe
+## os
+for opening the cmd and running the kill comand
+
+## PySimpleGUI
+for the very very simple Gui
+
+## psutil
+for checking if the running processes in the background
+
+
+## auto-py-to-exe
 Also i used a library called ***auto-py-to-exe*** which convertes the python game into an executive exe file
