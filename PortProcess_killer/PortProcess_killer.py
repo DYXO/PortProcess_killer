@@ -31,6 +31,7 @@ while True:
                             process_pid = process.pid
                             print(f"Process running on port {port} has PID: {process_pid}")
                             os.system(f'taskkill /PID {process_pid} /F')
+                            print(f"PID {process_pid} on Port {port} has been killed")
                             process_found = True
                             break
                 except psutil.AccessDenied:
